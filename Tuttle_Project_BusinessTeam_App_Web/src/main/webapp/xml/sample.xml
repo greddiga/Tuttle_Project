@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<DOCUMENT>
+    <META>
+        <GENERATED_BY>#AUTHOR</GENERATED_BY>
+    </META>
+    <DATA>
+            <STRUCT label="m">
+                <SNAME>#SNAME</SNAME>
+                <FIELD>
+                    <FNAME>#FNAME</FNAME>
+                    <TYPE>#TYPE</TYPE>
+                    <VALUE>#VALUE</VALUE>
+                    <KEYNAME>#KEY</KEYNAME>
+                </FIELD>
+            </STRUCT>
+    </DATA>
+</DOCUMENT>
